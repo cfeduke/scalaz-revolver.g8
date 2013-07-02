@@ -1,4 +1,4 @@
-#giter8 template using Scalaz 7 and sbt-revolver
+#giter8: scalaz, sbt-revolver
 
 Forked from:
 
